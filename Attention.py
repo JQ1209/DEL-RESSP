@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time:  2022/8/14 14:42
 # @Author: Li
-# @File: GAM.py
+# @File: Attention.py
 # @Software: PyCharm
 import torch.nn as nn
 import torch
